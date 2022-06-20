@@ -1,0 +1,32 @@
+// {
+
+// "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+// "window.zoomLevel": 1,
+// "files.autoSave": "afterDelay",
+// "workbench.statusBar.visible": false,
+// "terminal.integrated.automationShell.windows": "",
+// }
+
+{
+    "editor.tabSize": 2,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+    "terminal.integrated.automationShell.windows": "",
+    "[javascript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[html]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "prettier.jsxBracketSameLine": true,
+    "eslint.quiet": true,
+    "prettier.arrowParens": "avoid",
+    "editor.unicodeHighlight.ambiguousCharacters": false,
+    "editor.formatOnSave": true,
+    "editor.accessibilitySupport": "off",
+    "explorer.compactFolders": false,
+    "editor.inlineSuggest.enabled": true
+  }

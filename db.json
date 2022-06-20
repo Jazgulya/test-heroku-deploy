@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "title": "Тонометры",
+      "description": "Тонометр автоматический",
+      "price": 4500,
+      "image": "https://static.onlinetrade.ru/img/items/m/tonometr_b.well_a_23_avtomaticheskiy_manzheta_adapter_738463_1.jpg",
+      "id": 2
+    },
+    {
+      "title": "Тонометры",
+      "description": "Механический тонометр",
+      "price": 1500,
+      "image": "http://spb.omronrussia.ru/wa-data/public/shop/products/92/00/92/images/1932/1932.600.jpg",
+      "id": 7
+    },
+    {
+      "title": "Тонометры ",
+      "description": "Полуавтоматический тонометр",
+      "price": 3500,
+      "image": "https://tehnoteca.ru/img/179/178759/a_d_ua_604_1.jpg",
+      "id": 8
+    }
+  ]
+}
