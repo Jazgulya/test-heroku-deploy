@@ -50,7 +50,7 @@ const CartContextProvider = ({ children }) => {
     // console.log(product);
     getCart();
   }
-  function checkEventInCart(product) {
+  function checkProductInCart(product) {
     let cart = JSON.parse(localStorage.getItem("cart"));
     if (!cart) {
       cart = {
@@ -107,7 +107,7 @@ const CartContextProvider = ({ children }) => {
         cart: state.cart,
         count: state.count,
         addProductToCart,
-        checkEventInCart,
+        checkProductInCart,
         getCart,
         changeProductCount,
         deleteFromCart,
