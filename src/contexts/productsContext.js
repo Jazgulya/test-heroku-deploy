@@ -4,7 +4,8 @@ import { Api } from "@mui/icons-material";
 
 export const productsContext = React.createContext();
 
-const API = "http://localhost:8000/data";
+// const API = "http://localhost:8000/data";
+const API = "https://makers-deploy-jazgul.herokuapp.com/data";
 const INIT_STATE = {
   products: [],
   oneProduct: null,
